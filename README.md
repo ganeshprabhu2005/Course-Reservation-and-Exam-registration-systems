@@ -1,9 +1,13 @@
-Aim
+Aim:
+
 To develop a project Course Reservation and Exam Registration System using Rational Rose Software and to implement the software in Java.
 
 PROBLEMSTATEMENT:
+
 • Effective for Administration Purpose
+
 • Cost effective
+
 • Better Services
 
 Use case Diagrams:
